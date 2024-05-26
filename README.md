@@ -10,8 +10,8 @@ Objectives:
 
 | File          | Description |
 |---------------|------------------------------|
-|`public/index.html`|This file is the starting place for the entire front end of your website.|
-|`public/styles.css`|This file contains the CSS styles for your front end.|
+|`public/index.html`|This file is the starting place for the entire front end of the website.|
+|`public/styles.css`|This file contains the CSS styles for the front end.|
 |`public/index.js`|This file contains the client-side JavaScript, which will call the API in `app.js` and provides other front end behavior for the features implemented.|
 |`app.js`|This file contains the Node.js service that is the back end API.|
 |`<insert-file-name>.db`|This file contains the database for the website.|
